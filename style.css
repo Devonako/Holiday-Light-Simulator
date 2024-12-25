@@ -1,0 +1,12 @@
+body {
+  background-color: #222; /* Dark background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+canvas {
+  border: 1px solid white; /* Add a border to the canvas */
+}
